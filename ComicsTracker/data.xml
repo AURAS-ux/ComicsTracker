@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<comics>
+  <name>Batman</name>
+  <status>True</status>
+  <name>Flash</name>
+  <status>True</status>
+  <name>Booster</name>
+  <status>False</status>
+</comics>
